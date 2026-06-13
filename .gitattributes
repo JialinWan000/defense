@@ -1,0 +1,2 @@
+ckpt/dpjscc/bdjscc_R1_3_cleanTrue_datasetCIFAR_ratio0.01_snr20_ChannelAWGN/checkpoint-99.pth filter=lfs diff=lfs merge=lfs -text
+ckpt/dpjscc/bdjscc_R1_3_cleanFalse_datasetCIFAR_ratio0.01_snr20_ChannelAWGN/checkpoint-99.pth filter=lfs diff=lfs merge=lfs -text
