@@ -1,0 +1,318 @@
+{
+  "cleanTrue": {
+    "experiment1/vit_jscc_lager_1_4_patch16_cleanTrue_datasetImageNet_ratio0.1_snr15_ChannelAWGN": {
+      "ctor": "vit_jscc_lager_1_4_patch16",
+      "checkpoint": "ckpt/experiment1/ckpt/vit_jscc_lager_1_4_patch16_cleanTrue_datasetImageNet_ratio0.1_snr15_ChannelAWGN/checkpoint-119.pth",
+      "scan": [
+        {
+          "r": 0.2,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.2,
+          "pi_val": 0.9921875
+        },
+        {
+          "r": 0.4,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.4,
+          "pi_val": 0.5703125
+        },
+        {
+          "r": 0.4,
+          "chi": 0.4,
+          "pi_val": 0.890625
+        },
+        {
+          "r": 0.6,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.6,
+          "pi_val": 0.125
+        },
+        {
+          "r": 0.4,
+          "chi": 0.6,
+          "pi_val": 0.4921875
+        },
+        {
+          "r": 0.6,
+          "chi": 0.6,
+          "pi_val": 0.6875
+        },
+        {
+          "r": 0.8,
+          "chi": 0.6,
+          "pi_val": 0.7578125
+        },
+        {
+          "r": 1.0,
+          "chi": 0.6,
+          "pi_val": 0.7265625
+        },
+        {
+          "r": 0.2,
+          "chi": 0.8,
+          "pi_val": 0.0078125
+        },
+        {
+          "r": 0.4,
+          "chi": 0.8,
+          "pi_val": 0.1953125
+        },
+        {
+          "r": 0.6,
+          "chi": 0.8,
+          "pi_val": 0.2578125
+        },
+        {
+          "r": 0.8,
+          "chi": 0.8,
+          "pi_val": 0.328125
+        },
+        {
+          "r": 1.0,
+          "chi": 0.8,
+          "pi_val": 0.375
+        },
+        {
+          "r": 0.2,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.4,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.6,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.8,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 1.0,
+          "chi": 1.0,
+          "pi_val": 0.0
+        }
+      ]
+    }
+  },
+  "cleanFalse": {
+    "experiment1/vit_jscc_lager_1_6_patch16_cleanFalse_datasetCIFAR_ratio0.1_snr15_ChannelAWGN": {
+      "ctor": "vit_jscc_lager_1_6_patch16",
+      "checkpoint": "ckpt/experiment1/ckpt/vit_jscc_lager_1_6_patch16_cleanFalse_datasetCIFAR_ratio0.1_snr15_ChannelAWGN/checkpoint-99.pth",
+      "scan": [
+        {
+          "r": 0.2,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.0,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.2,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.4,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.6,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.6,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.6,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.6,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.6,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 0.8,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.4,
+          "chi": 0.8,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.6,
+          "chi": 0.8,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.8,
+          "chi": 0.8,
+          "pi_val": 1.0
+        },
+        {
+          "r": 1.0,
+          "chi": 0.8,
+          "pi_val": 1.0
+        },
+        {
+          "r": 0.2,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.4,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.6,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 0.8,
+          "chi": 1.0,
+          "pi_val": 0.0
+        },
+        {
+          "r": 1.0,
+          "chi": 1.0,
+          "pi_val": 0.0
+        }
+      ]
+    }
+  }
+}
